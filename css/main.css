@@ -26,7 +26,7 @@ p {
  line-height: 25px;
 }
 
-.indented {
+.body {
  padding-left: 425pt; 
  padding-right: 200pt; 
  font-family: 'Cardo', Georgia, Times, serif;
@@ -35,13 +35,13 @@ p {
  max-width: 800px;
 } 
 
- .indented h2 {
+ .body h2 {
  font-family: 'Droid Serif', Georgia, Times, serif;
  font-size: 35px;
  line-height: 65px;
 }
 
-.indented p {
+.body p {
 	font-weight: bold;
 }
 
@@ -52,7 +52,7 @@ body {
   padding-bottom:0px;
 }
 
-.container {
+.header {
   position: relative;
   text-align: center;
   color: white;
