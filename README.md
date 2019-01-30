@@ -7,4 +7,4 @@ components to this assignment.
 
 ##Installation
 
-From the git hub link: clone the folder structure to access the typography webpage.
+From the git hub link: https://github.com/Kahani22/gajjar_kahani_1056_Project2 clone the folder structure to access the typography webpage.
